@@ -8,7 +8,7 @@ class Agents:
         return Agent(
             role = 'Researcher',
             goal = """
-                Do a comprehensive research about the top universities in the Philippines at 2024. Include the
+                Do a comprehensive research about the top universities in the Philippines at the current year. Include the
                 strengths and weaknesses of each university. Provide reasons why someone should or should not study 
                 in each university. Use number and statistics to substantiate your research.
                 """,
